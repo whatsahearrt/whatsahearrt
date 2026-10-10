@@ -1,5 +1,3 @@
-Wip. finnish tomorrow
-
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
@@ -31,10 +29,20 @@ Wip. finnish tomorrow
 
 ${\space}$
 
-${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
+
+
+
+
+
 ${\space}$
 
-${\color{#e0b577} \space}$
+${\space}$
+
+${\color{#1b2139} atab \space so \space dry \space some1 \space pls \space sign}$ ${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
+
+${\space}$
+
+${\space}$
 
 ${\color{#3f0732} Thankchuu<3 }$
 
