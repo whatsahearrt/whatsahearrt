@@ -31,7 +31,7 @@ wip. dont look or i beat
 
 ${\space}$
 
-<img width="90" height="190" alt="image" src="https://github.com/user-attachments/assets/1f45d438-feb6-4cf5-825c-f07a14d65b73" />
+<img width="100" height="190" alt="image" src="https://github.com/user-attachments/assets/1f45d438-feb6-4cf5-825c-f07a14d65b73" />
 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/50ab8fc0-0979-4220-b414-a247867daed4" />
 
