@@ -5,7 +5,7 @@ wip. dont look or i beat
   <img src="https://komarev.com/ghpvc/?username=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="iwaoi" />
 </p>
 
-### ${\color{#1b2139}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖑𝖎𝖋𝖊 \space}$
+### ${\color{#25305b}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖑𝖎𝖋𝖊 \space}$
 
 <img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 <img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
