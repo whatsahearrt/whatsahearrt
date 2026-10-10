@@ -48,11 +48,6 @@ ${\space}$
 ${\space}$
 
 ${\space}$
-${\color{#e0b577}}$ [it](https://kiribaku.atabook.org/)
-
-${\space}$
-
-${\space}$
 
 ${\color{#3f0732} Thankchuu<3 }$
 
