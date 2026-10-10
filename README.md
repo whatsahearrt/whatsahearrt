@@ -33,7 +33,7 @@ ${\space}$
 
 [
  ![<img width="100" height="190" alt="image" src="https://github.com/user-attachments/assets/1f45d438-feb6-4cf5-825c-f07a14d65b73" />]
-](https://guns.lol/suangel)
+](https://listography.com/nyanruto?m=6404158689)
 
 
 [ ![<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/50ab8fc0-0979-4220-b414-a247867daed4" />]
