@@ -39,7 +39,7 @@ ${\space}$
 
 ${\space}$
 
-${\color{#3f0732} Thankchuu<3 }$
+${\color{#540434} Thankchuu<3 }$
 
 ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
 )
