@@ -62,7 +62,7 @@ ${\color{#540434} Thankchuu<3 }$
 
 ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
 )
-${\color{#e0b577}}$ [pt-friendships (ty Rodri •√•)](https://github.com/pt-friendships
+${\color{#e0b577}}$ [pt-friendships (ty Rodri •v•)](https://github.com/pt-friendships
 )
 
 ${\space}$
