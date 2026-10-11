@@ -6,7 +6,6 @@
 
 ### ${\color{#25305b}  𝄞}$ ${\color{#2b758a} 𝖙𝖍𝖎𝖘 \space 𝖚𝖘𝖊𝖗 \space 𝖎𝖘 \space \space 𝖋𝖔𝖓𝖉 \space 𝖔𝖋 \space 𝖒𝖚𝖘𝖎𝖈}$
 
-${\color{#e0b577} \space}$
 
 <img width="390" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 
