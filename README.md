@@ -8,11 +8,11 @@
 
 ${\color{#e0b577} \space}$
 
-<img width="380" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
+<img width="390" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 
 <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/0dd4058c-ad6c-4c55-8978-c2db88f3d8b4" />
 
-<img width="380" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
+<img width="390" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 
 
 <img width="1036" height="614" alt="image" src="https://github.com/user-attachments/assets/47f47d62-fa5e-419b-ab12-5e905709a050" />
