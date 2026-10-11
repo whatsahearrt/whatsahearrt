@@ -6,7 +6,7 @@
 
 ### ${\color{#25305b}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖑𝖎𝖋𝖊 \space}$
 
-
+${\color{#e0b577} \space}$
 
 <img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 
