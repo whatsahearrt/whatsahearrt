@@ -49,6 +49,10 @@ ${\space}$
 
 ${\space}$
 
+
+<img width="425" height="588" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/dbd5e1a7-fa62-4611-a6f1-63f2d9f31941" />
+
+
 ${\color{#540434} Thankchuu<3 }$
 
 ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
