@@ -50,7 +50,7 @@ ${\space}$
 ${\space}$
 
 
-<img width="425" height="588" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/dbd5e1a7-fa62-4611-a6f1-63f2d9f31941" />
+<img width="325" height="488" alt="image-removebg-preview" src="https://github.com/user-attachments/assets/dbd5e1a7-fa62-4611-a6f1-63f2d9f31941" />
 
 
 ${\color{#540434} Thankchuu<3 }$
