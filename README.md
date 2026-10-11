@@ -6,6 +6,7 @@
 
 ### ${\color{#25305b}  𝄞}$ ${\color{#2b758a} 𝖒𝖚𝖘𝖎𝖈 \space 𝖎𝖘 \space 𝖑𝖎𝖋𝖊 \space}$
 
+${\space}$
 
 <img width="400" height="12" alt="image" src="https://github.com/user-attachments/assets/7c5176f6-4ec5-4f16-b2a8-484ee48a6300" />
 
@@ -65,7 +66,7 @@ ${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
 ${\color{#e0b577}}$ [pt-friendships (ty Rodri •√•)](https://github.com/pt-friendships
 )
 
-${\color{#e0b577} \space}$
+${\space}$
 
 
 <img width="99" height="56" alt="image" src="https://github.com/user-attachments/assets/c2f3499b-8c36-4118-a248-f058b28aa097" />
