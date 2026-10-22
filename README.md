@@ -5,7 +5,6 @@
 
 <p> <img src="https://komarev.com/ghpvc/?USERNAME=whatsahearrt&label=ᖳᖰ&color=3f0732&style=flat" alt="miik" /> </p>
 
-<img src="https://komarev.com/ghpvc/?username=whatsahearrt&label=%E1%96%B3%E1%96%B0&color=3f0732&style=flat" alt="miik" />
 
 ### ${\color{#25305b}  𝄞}$ ${\color{#2b758a} 𝖙𝖍𝖎𝖘 \space 𝖚𝖘𝖊𝖗 \space 𝖎𝖘 \space \space 𝖋𝖔𝖓𝖉 \space 𝖔𝖋 \space 𝖒𝖚𝖘𝖎𝖈}$
 
