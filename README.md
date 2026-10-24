@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?USERNAME=eh&label=ᖳᖰ&color=3f0732&style=flat" alt="miik" />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=whatsahearrt&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
 
 
