@@ -70,13 +70,13 @@ ${\space}$
   </tr>
   <tr>
     <td align="center">
-      <sub>꒰১ 𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑 ໒꒱</sub>
+      <sub> ${\color{#2b758a} ꒰১ \space 𝖑𝖔𝖛𝖊𝖒𝖆𝖎𝖑 \space ໒꒱}$ </sub>
     </td>
     <td align="center">
-      <sub>۶ৎ 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 ۶ৎ</sub>
+      <sub> ${\color{#540434} ۶ৎ \space 𝖆𝖙𝖆𝖇𝖚𝓴𝓴 \space ۶ৎ}$ </sub>
     </td>
     <td align="center">
-      <sub>꒰১ 𝔃𝔂𝖔 ໒꒱</sub>
+      <sub> ${\color{#540434} ꒰১ \space 𝔃𝔂𝖔 \space ໒꒱}$ </sub>
     </td>
   </tr>
 </table>
