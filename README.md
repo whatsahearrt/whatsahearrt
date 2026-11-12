@@ -47,7 +47,7 @@ ${\space}$
  </td> </tr> </table>
 
 <details>
-<summary>${\color{#236a72} no \space one \space cares \space but \space ok}$</summary>
+<summary>${\color{#7a8191} no \space one \space cares \space but \space ok}$</summary>
 
 ${\space}$
 
