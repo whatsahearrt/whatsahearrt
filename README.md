@@ -51,8 +51,8 @@ ${\space}$
 
 ${\space}$
 
-<img width="705" height="250" alt="image" src="https://github.com/user-attachments/assets/566a08db-3c41-46d6-89ce-f3ae64f47b84" />
-<img width="696" height="211" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
+<img width="505" height="150" alt="image" src="https://github.com/user-attachments/assets/566a08db-3c41-46d6-89ce-f3ae64f47b84" />
+<img width="496" height="111" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
 
 </details>
 
