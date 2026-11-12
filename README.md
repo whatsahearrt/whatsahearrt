@@ -55,7 +55,7 @@ ${\space}$
 
 ${\space}$
 
-<img width="296" height="111" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
+<img width="396" height="111" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
 
 </details>
 
