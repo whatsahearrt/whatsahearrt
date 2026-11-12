@@ -49,8 +49,8 @@ ${\space}$
 <details>
 <summary>${\color{#596984} no \space one \space cares \space but \space ok}$</summary>
 
-<img width="1305" height="550" alt="image" src="https://github.com/user-attachments/assets/566a08db-3c41-46d6-89ce-f3ae64f47b84" />
-<img width="1296" height="511" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
+<img width="705" height="250" alt="image" src="https://github.com/user-attachments/assets/566a08db-3c41-46d6-89ce-f3ae64f47b84" />
+<img width="696" height="211" alt="image" src="https://github.com/user-attachments/assets/1dcac251-1b42-4a8b-8eb6-062e88e849fb" />
 
 </details>
 
