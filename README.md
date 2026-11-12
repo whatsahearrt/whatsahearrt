@@ -30,6 +30,22 @@
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/37915071-fdb4-48d8-af2e-495bed565533" />
 
 
+<details>
+<summary>${\color{#596984} no \space one \space cares \space but \space ok}$</summary>
+
+${\color{#e0b577}}$ [title-town](https://github.com/title-town
+)
+${\color{#e0b577}}$ [pt-walf-of-fame](https://github.com/pt-walk-of-fame
+)
+${\color{#e0b577}}$ [pt-fashion](https://github.com/pt-fashion
+)
+${\color{#e0b577}}$ [pony achievements (ty Jackie)](https://github.com/ponychievements
+)
+${\color{#e0b577}}$ [pt-heavyfictkin(i lied i dont fictkin)](https://github.com/pt-heavyfictkin
+)
+
+</details>
+
 
 ${\space}$
 
